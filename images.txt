@@ -4,4 +4,4 @@
 --platform=linux/arm64 kibana:9.2.0
 --platform=linux/arm64 mongo:latest
 --platform=linux/arm64 mysql:latest
-
+--platform=linux/arm64 redis:latest
